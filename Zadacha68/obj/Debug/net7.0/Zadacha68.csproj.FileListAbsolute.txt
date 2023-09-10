@@ -1,0 +1,14 @@
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfoInputs.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfo.cs
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.csproj.CoreCompileInputs.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\bin\Debug\net7.0\Zadacha68.exe
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\bin\Debug\net7.0\Zadacha68.deps.json
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\bin\Debug\net7.0\Zadacha68.runtimeconfig.json
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\bin\Debug\net7.0\Zadacha68.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\bin\Debug\net7.0\Zadacha68.pdb
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\refint\Zadacha68.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.pdb
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\Zadacha68.genruntimeconfig.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 9\DZ\Seminar9_CS_DZ\Zadacha68\obj\Debug\net7.0\ref\Zadacha68.dll
